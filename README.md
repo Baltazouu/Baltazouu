@@ -1,5 +1,3 @@
-# Baltaz
-
 # Baltazouu
 
 * 👋 Hi, I’m @Baltazouu (Baptiste), 18y Computer science student of "BUT Informatique" in France.
