@@ -18,7 +18,7 @@
 * PSQL
 * C#
 * Bash
-* * Java
+* Java
 * A lot of  others things
 
 ## Contact :
