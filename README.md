@@ -15,8 +15,8 @@
 
 ## 📝​Learning
 
-* PSQL
-* C#
+* SQL,PSQL,SQLITE
+* C++
 * Bash
 * Java
 * A lot of  others things
