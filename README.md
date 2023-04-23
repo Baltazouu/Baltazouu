@@ -10,14 +10,13 @@
 
 * Web : **HTML/CSS**,**Js**,**PHP**
 * Python
-* C
-* SQLITE
+* C,C++,C#
+* SQLITE,PSQL
+* Bash
 
 ## 📝​Learning
 
-* SQL,PSQL,SQLITE
-* C++
-* Bash
+* .NET
 * Java
 * A lot of  others things
 
